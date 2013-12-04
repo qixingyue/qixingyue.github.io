@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>place_your_blog_title_here</title>
+    <link>place_your_blog_url_here</link>
+    <atom:link href="place_your_blog_url_here/rss.xml" rel="self" type="application/rss+xml" />
+    <description>place_your_blog_description_here</description>
+    <language>place_your_blog_language_here</language>
+    <pubDate>Wed, 04 Dec 2013 13:43:07 +0800</pubDate>
+    <lastBuildDate>Wed, 04 Dec 2013 13:43:07 +0800</lastBuildDate>
+
+    
+    <item>
+      <title>世界，你好</title>
+      <link>place_your_blog_url_here/2013/11/22/hello.html</link>
+      <pubDate>22 Nov 2013</pubDate>
+      <author>place_your_name_here</author>
+      <guid>place_your_blog_url_here/2013/11/22/hello</guid>
+      <description>&lt;h2&gt;世界，你好&lt;/h2&gt;
+&lt;p&gt;你好世界！&lt;/p&gt;
+&lt;p&gt;2013-11-22 00:00:00 +0800&lt;/p&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
